@@ -1,0 +1,65 @@
+/*admin.css*/
+
+@import url("common/reset.css");
+@import url("common/header.css");
+@import url("common/footer.css");
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sunflower:wght@500&display=swap');
+
+.container {
+	width: 100%;
+	height: calc(100vh - 180px - 50px);
+}
+
+.inner-con {
+	width: 100%;
+	height: calc(100vh - 180px - 50px);
+	background-image: url("../img/ekuse3.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: bottom;
+	display: flex;
+	justify-content: center;
+}
+
+.admin {
+	background: rgba(255, 255, 255, 0.5);
+	width: 100%;
+	font-family: 'Sunflower', sans-serif;
+}
+
+.admin .welcome {
+	font-size: 1.5em;
+	text-align: center;
+	padding: 20px 0px;
+}
+
+.admin .welcome span {
+	color: #623911;
+}
+
+.list-con {
+	width: 100%;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+}
+
+.list-con ul li{
+	display: flex;
+	justify-content: center;
+	margin: 20px 0px;
+}
+
+
+
+.list-con ul li a {
+	background-color: #5f4339;
+	color: #d7ccc8;
+	padding: 15px 20px;
+	width: 150px;
+}
+
+
+
+

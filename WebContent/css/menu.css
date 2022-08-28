@@ -1,0 +1,38 @@
+/*menu.css*/
+
+@import url("common/reset.css");
+@import url("common/header.css");
+@import url("common/footer.css");
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
+
+.container {
+	width: 100%;
+	height: auto;
+	background-color: #F8F8F8;
+}
+
+.inner-con {
+	width: 100%;
+}
+
+.inner-con h2 {
+	text-align: center;
+	font-family: 'Noto Serif', serif;
+	letter-spacing: 2px;
+	font-weight: lighter;
+	line-height: 50px;
+}
+
+.menu {
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: center;
+}
+
+.menu img {
+	margin: 20px 100px;
+}
+
+.menu img:hover {
+	opacity: 0.7;
+}

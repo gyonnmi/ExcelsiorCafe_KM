@@ -1,0 +1,94 @@
+/*memberListView.css*/
+
+@import url("common/reset.css");
+@import url("common/header.css");
+@import url("common/footer.css");
+@import url('https://fonts.googleapis.com/css2?family=Yeon+Sung&display=swap');
+
+.container {
+	width: 100%;
+	height: calc(100vh - 180px);
+}
+
+.inner-con {
+	width: 100%;
+	height: calc(100vh - 180px);
+	background-image: url("../img/ekuse5.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: bottom;
+	display: flex;
+	justify-content: center;
+}
+
+.memberListView-con {
+	background: rgba(255, 255, 255, 0.5);
+	width: 700px;
+}
+
+.search-con {
+	display: flex;
+	justify-content: flex-end;
+	margin: 10px 66px 10px 0px;
+}
+
+.search-con form select {
+	height: 30px;
+	font-family: 'Yeon Sung', cursive;
+	letter-spacing: 1px;
+	border: 1px solid #c0c0c0;
+	color: #583732;
+	float: left;
+}
+
+.search-con form input {
+	height: 30px;
+	font-family: 'Yeon Sung', cursive;
+	letter-spacing: 1px;
+	border: 1px solid #c0c0c0;
+}
+
+.search-con form input[type=text] {
+	padding-left: 5px;
+}
+
+.search-con form input[type=button] {
+	width: 50px;
+	color: #583732;
+	float: right;
+}
+
+.table-con {
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	font-family: 'Yeon Sung', cursive;
+	font-size: 1.1em;
+}
+
+table thead tr th {
+	line-height: 50px;
+	padding: 0 25px;
+	color: #3e3e3e;
+}
+
+.tit {
+	background-color: #d7ccc8;
+	color: #795548;
+	font-size: 1.2em;
+}
+
+table tbody tr td {
+	line-height: 30px;
+	color: #583732;
+}
+
+table tbody tr td a {
+	background-color: #725b53;
+	width: 100px;
+	padding: 5px 10px;
+	color: #d7ccc8;
+}
+
+
+

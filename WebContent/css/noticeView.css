@@ -1,0 +1,66 @@
+/*noticeView.css*/
+
+@import url("common/reset.css");
+@import url("common/header.css");
+@import url("common/footer.css");
+
+.container {
+	width: 100%;
+	min-height: calc(100vh - 180px);
+	background-color: #F8F8F8;
+	display: flex;
+	justify-content: center;
+}
+
+.inner-con {
+	width: 70%;
+	padding: 20px 10px;
+}
+
+.t1 {
+	line-height: 80px;
+}
+
+.sec h3 {
+	line-height: 50px;
+}
+
+.sec p {
+	display: flex;
+	justify-content: flex-end;
+	padding: 0 10px 10px 0;
+}
+
+.sec-con {
+	width: 100%;
+	height: 400px;
+	padding: 2px 0;
+}
+
+.ta {
+	width: 100%;
+	height: 400px;
+	padding: 2px 0;
+	resize: none;
+	background-color: #F8F8F8;
+	border: none;
+}
+
+.ta:focus {
+	outline: none;
+}
+
+.b1 {
+	float: right;
+	background-color: #86563c;
+	color: #fbf9f7;
+	text-shadow: 2px 2px 2px gray;
+	padding: 3px 15px;
+	margin-top: 5px;
+}
+
+
+
+
+
+
