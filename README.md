@@ -1,9 +1,10 @@
 # ExcelsiorCafe_KM
 
-**[ 개발환경 ]** <br>
-![image](https://user-images.githubusercontent.com/107240999/187074294-3043a4d5-e074-4613-ad55-4adf1ec6a31d.png)
+![이미지 002](https://user-images.githubusercontent.com/107240999/190295089-e8fa18ac-2ed4-47d6-a429-d99582ecaca7.png)
+
 
 백엔드 기능에 중점을 둔 개인 프로젝트 입니다. <br>  <br>
+![이미지 001](https://user-images.githubusercontent.com/107240999/190295212-9c488266-5db9-428d-8c55-543391d4ccda.png)
 
 **[ 기간/인원수 ]** <br>
 2022.07.25 ~ 2022.07.31 (7일) / 1명 <br><br>
@@ -22,3 +23,4 @@ Apache Tomcat, JSTL, Ajax, MVC Model2 <br><br>
    * 공지사항 작성 <br>
 3) 일반 회원 권한으로 회원탈퇴를 진행할 시 현재 비밀번호와
 일치해야 탈퇴 성공 (관리자는 바로 탈퇴 처리 가능)
+
