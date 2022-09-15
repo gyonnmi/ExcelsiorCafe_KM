@@ -1,10 +1,16 @@
 # ExcelsiorCafe_KM
+![macbook-excelcafe](https://user-images.githubusercontent.com/107240999/190297153-c7b703b3-f616-4d78-8d37-aaf58666089e.png)
 
-![이미지 002](https://user-images.githubusercontent.com/107240999/190295089-e8fa18ac-2ed4-47d6-a429-d99582ecaca7.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/107240999/190298012-292e94cd-1e91-41a1-8777-b6dbfafdb40a.png" />
+</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/107240999/190295212-9c488266-5db9-428d-8c55-543391d4ccda.png" />
+</p>
 
-
+<p align="center">
 백엔드 기능에 중점을 둔 개인 프로젝트 입니다. <br>  <br>
-![이미지 001](https://user-images.githubusercontent.com/107240999/190295212-9c488266-5db9-428d-8c55-543391d4ccda.png)
+</p>
 
 **[ 기간/인원수 ]** <br>
 2022.07.25 ~ 2022.07.31 (7일) / 1명 <br><br>
