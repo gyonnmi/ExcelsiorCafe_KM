@@ -19,7 +19,7 @@ public class NoticeWriteOkCommend implements ExcuteCommend{
 		String notice_title=request.getParameter("notice_title");
 		String notice_content=request.getParameter("notice_content");
 		String notice_date=request.getParameter("notice_date");
-		int hit=Integer.parseInt(request.getParameter("hit"));
+		int hit=0;
 		
 		BoardDao dao=BoardDao.getInstance();
 		int rs=dao.noticeWrite(notice_no, notice_title, notice_content, notice_date, hit);
